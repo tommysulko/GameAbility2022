@@ -75,5 +75,8 @@ To change the level when you win we used this square as a goal at the end of eac
 
 We used textures to apply to the objects and backgrounds of each layer
 
-https://github.com/tommysulko/GameAbility2022/blob/main/Texture
+https://github.com/tommysulko/GameAbility2022/blob/main/Textures
 
+Examples:
+
+![Boat](https://github.com/tommysulko/GameAbility2022/blob/main/Textures/barcaTexuter.jpg)
