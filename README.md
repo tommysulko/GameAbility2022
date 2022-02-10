@@ -14,7 +14,6 @@ Our idea was to rehabilitate those who are partially paralyzed making them play.
 
 For the menu we have added an image as a background and we have added two buttons on for the Start and one for exit.
 
-![Munù](https://github.com/tommysulko/GameAbility2022/blob/main/Images/Startmenù.png)
 
 # Levels
 Level 1: Made by Unity
