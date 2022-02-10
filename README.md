@@ -83,7 +83,7 @@ Examples:
 
 https://github.com/tommysulko/GameAbility2022/blob/main/Textures
 
-For each level he decided to use a different anft to decorate the ball
+For each level we decided to use a different NFT to decorate the ball
 
 Examples:
 
