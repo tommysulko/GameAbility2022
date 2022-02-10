@@ -70,3 +70,10 @@ Frame of Gameplay
 To change the level when you win we used this square as a goal at the end of each level
 
 ![Goal](https://github.com/tommysulko/GameAbility2022/blob/main/Images/Goal.png)
+
+# Textures
+
+We used textures to apply to the objects and backgrounds of each layer
+
+https://github.com/tommysulko/GameAbility2022/blob/main/Texture
+
