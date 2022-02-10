@@ -4,6 +4,12 @@
 
 Component: Mattia Sparla, Marco Dalmasso, Tommaso Sulkuqi
 
+# Idea
+
+Our idea was to rehabilitate those who are partially paralyzed making them play. To create the game we used Unity while to try to move the ball through the movement of the wrist useful for rehabilitation we used Openpose, a program capable of detecting body movements.
+
+![Openpose](https://benisnous.com/wp-content/uploads/2020/12/OpenPose-with-CUDA-101-and-cuDNN-751-for-Ubuntu-1804.jpg)
+
 # Levels
 Level 1: Made by Unity
 
