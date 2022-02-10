@@ -79,4 +79,4 @@ https://github.com/tommysulko/GameAbility2022/blob/main/Textures
 
 Examples:
 
-![Boat](https://github.com/tommysulko/GameAbility2022/blob/main/Textures/barcaTexuter.jpg)
+![Boat](https://github.com/tommysulko/GameAbility2022/blob/main/Textures/barcaTexture.jpg)
