@@ -64,3 +64,9 @@ Made by Unity (Final)
 Frame of Gameplay 
 
 ![Level6_GamePlay](https://github.com/tommysulko/GameAbility2022/blob/main/Images/Level6_GamePlay.png)
+
+# Goal
+
+To change the level when you win we used this square as a goal at the end of each level
+
+![Goal](https://github.com/tommysulko/GameAbility2022/blob/main/Images/Goal.png)
