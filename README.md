@@ -77,8 +77,17 @@ To change the level when you win we used this square as a goal at the end of eac
 
 We used textures to apply to the objects and backgrounds of each layer
 
-https://github.com/tommysulko/GameAbility2022/blob/main/Textures
-
 Examples:
 
 ![Boat](https://github.com/tommysulko/GameAbility2022/blob/main/Textures/barcaTexture.jpg)
+
+https://github.com/tommysulko/GameAbility2022/blob/main/Textures
+
+For each level he decided to use a different anft to decorate the ball
+
+Examples:
+
+![NFT](https://github.com/tommysulko/GameAbility2022/blob/main/Textures/NFT_Level2.jpg)
+
+
+
