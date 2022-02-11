@@ -79,6 +79,14 @@ Frame of Gameplay
 
 ![Level6_GamePlay](https://github.com/tommysulko/GameAbility2022/blob/main/Images/Level6_GamePlay.png)
 
+# Obstacles
+
+For each level we have decided to insert obstacles based on the difficulty of the level, which if hit return to the beginning of the level.
+
+Examples:
+
+
+
 # Goal
 
 To change the level when you win we used this square as a goal at the end of each level
