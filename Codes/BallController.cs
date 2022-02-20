@@ -1,44 +1,3 @@
-/*using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class BallController : MonoBehaviour
-{
-    public Rigidbody rb;
-    public float moveSpeed = 10f;
-    private float xInput;
-    private float zInput;
-
-    // Start is called before the first frame update
-    void Awake()
-    {
-        rb = GetComponent<Rigidbody>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        ProcessInputs();
-    }
-
-    void FixedUpdate()
-    {
-        //movimento
-        Move();
-    }
-
-    private void ProcessInputs()
-    {
-        xInput = Input.GetAxis("Horizontal");
-        zInput = Input.GetAxis("Vertical");
-    }
-
-    private void Move()
-    {
-        rb.AddForce(new Vector3(xInput, 0f, zInput)* moveSpeed);
-    }
-}*/
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -46,7 +5,7 @@ using UnityEngine;
 public class BallController : MonoBehaviour
 {
 
-    public Rigidbody RB3D;
+    public Rigidbody RB3D;//creation of the object whit rigidbody
 
     // Start is called before the first frame update
     void Start()
@@ -57,14 +16,16 @@ public class BallController : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (Input.GetKey("a"))
+        if (Input.GetKey("a"))//when we push letter "a", the ball go to left
         {
-            RB3D.AddForce(-10, 0, 0);
+            RB3D.AddForce(-10, 0, 0);// force to go left
+            RB3D.AddForce(0, 0,0);
         }
 
-        if (Input.GetKey("d"))
+        if (Input.GetKey("d"))//when we push letter "d", the ball go to right
         {
-            RB3D.AddForce(10, 0, 0);
+            RB3D.AddForce(10, 0, 0);// force to go right
+            RB3D.AddForce(0, 0, 0);
         }
     }
 }

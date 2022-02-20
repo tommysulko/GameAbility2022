@@ -7,11 +7,12 @@ public class mainMenu : MonoBehaviour
 {
    public void PlayGame()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(0);//creation of the game menù
     }
 
     public void exitGame()
     {
+        //when we click exit, the closes
         Debug.Log("Your apllication is closeing");
         Application.Quit();
     }

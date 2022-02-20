@@ -10,7 +10,8 @@ public class CameraController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = target.transform.position + new Vector3(xOffset, yOffset, zOfset);
-        transform.LookAt(target.transform.position);
+
+        transform.position = target.transform.position + new Vector3(xOffset, yOffset, zOfset);//position of the camera
+        transform.LookAt(target.transform.position);//the camera is fixed on the ball
     }
 }

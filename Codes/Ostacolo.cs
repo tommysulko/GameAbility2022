@@ -10,11 +10,11 @@ public class Ostacolo : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         //hitSound.Play();
-        BallController component = other.gameObject.GetComponent<BallController>();
-        if (component != null)
+        BallController component = other.gameObject.GetComponent<BallController>(); //create a box around the object
+        if (component != null)//control of the hit
         {
             
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);//when the box gets hit the level restar
         }      
     }
 }

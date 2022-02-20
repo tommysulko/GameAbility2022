@@ -5,17 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class Reset : MonoBehaviour
 {
-    public float threshold = -50;
-   // public AudioSource hitSound;
+    public float threshold = -50;//our choice of size
 
     // Update is called once per frame
     void Update()
     {
         
-        if (transform.position.y < threshold)
+        if (transform.position.y < threshold)//control of position
         {
-           // hitSound.Play();
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);//if the position of the ball is < -50, the level restart
         }    
     }
 }
