@@ -107,5 +107,24 @@ Examples:
 
 ![NFT](https://github.com/tommysulko/GameAbility2022/blob/main/Textures/NFT_Level2.jpg)
 
+#  Tutorial
 
+
+Go to Unity official page and download unity.
+
+![Unitydowload](https://github.com/tommysulko/GameAbility2022/blob/main/Images/Unitydowload.PNG)
+
+
+Once this is done, go to the link to the drive where the game is located and download the game folder.
+
+Then open Unity Hub, and click on "open file" and select the folder you downloaded.
+
+If this is your first time using unity it will take some time, so please wait.
+
+![UnityHub](https://github.com/tommysulko/GameAbility2022/blob/main/Images/UnityHub.PNG)
+
+
+
+To get the game .exe click on file, then "Build and Run" and it will automatically create a game .exe on your desktop.
+To play click on it ...
 
